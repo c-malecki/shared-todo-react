@@ -1,0 +1,9 @@
+{
+  "short_name": "React App TS",
+  "name": "create-react-app typescript template with eslint and prettier",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
